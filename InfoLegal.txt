@@ -12,7 +12,7 @@ apliacables.El Desarrollador no asume ninguna responsabilidad y no es
 responsable por ningún mal uso o daño causado por este programa. 
 
 legal disclaimer: usage of Bat Track for attacking 
-targets without prior mutual consent is illegal. It is the user's responsibulity 
+targets without prior mutual consent is illegal. It is the user's responsibulity. 
 to obey all applicable local, state and federal lasw. 
 he Developer no liability and are not responsible for any
 misuse or damage caoused by this program.
